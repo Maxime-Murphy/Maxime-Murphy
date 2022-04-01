@@ -4,11 +4,11 @@
 ***
 NOTE: I just started using gitHub and will publish my work when I have time, but for now this is just an intro to my interests... 
 ***
-👀 I'm looking for collaborators to join my stock picking project  : 
-    ==> You might know the best ML strategy for predicting time-series/back-testing :))
-    ==> Maybe you have lots of experience creating scalable SQL databases, then I surely would appreciate your input!
+👀 I'm looking for collaborators to join my stock picking project  :   
+    ==> You might know the best ML strategy for predicting time-series/back-testing :))  
+    ==> Maybe you have lots of experience creating scalable SQL databases, then I surely would appreciate your input!  
     
-    This project could be turned into an app, but in the meantime it's really for fun and personal use!
+    This project could be turned into an app, but in the meantime it's really for fun and personal use!  
     
 📫 How to reach me: maxime.murphy@gmail.com; https://www.linkedin.com/in/maximemurphy/
 
