@@ -2,7 +2,7 @@
 - 👀 I’m interested in developing a fundamental stock picking ML model based on fundamental metrics (think long-term investment approach of stockpicking legends such as : Graham, Buffet, Lynch, etc.) and apply back-testing methods to validate the results. 
 - My other projects are related developping tool to streamline data access (a library and data browser for connecting to UNESCO-UIS data)
 - NOTE: I just started using gitHub and will publish my work when I have time, but for now this is just an intro to my interests... 
-- 💞️ If stock analysis is an interest, you know how to apply Machine learning to time-series and make prediction/projections, or maybe you have experience with back-testing, I would love to hear from you. The project so far is a pipeline calling the data from an the finnHub API, consolidating the data, computing new metrics, and exporting to Excel with conditional formatting for visual picking. I'm now working on a more permanent solution for storage using a postgreSQL database. Next steps will be to develop the predictive models, then apply back-testing methods on time series. I'm using Python... 
+- 💞️ If you would like to collaborate on my stock picker, feel free to reach out! You might know the best ML strategy for predicting time-series/back-testing :)), or maybe you have a lot of experience creating scalable SQL database, then I surely would appreciate your input!
 - 📫 How to reach me: maxime.murphy@gmail.com; https://www.linkedin.com/in/maximemurphy/
 
 <!---
