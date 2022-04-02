@@ -1,4 +1,4 @@
-👋 Hi, I’m @Maxime-Murphy  
+👋 Hi, I’m Max (@Maxime-Murphy)
 ❤️‍🔥 I’m interested in developing a stock picking ML model based on fundamental metrics (think long-term investment approach of stockpicking legends such as :    Graham, Buffet, Lynch, etc.) and apply back-testing methods to validate the results.  
    My other projects are related to developping tools to streamline data access (python, streamlit)
 ***
