@@ -12,8 +12,8 @@ In general I like to work on projects that cover both my interests and my profes
 NOTE: I just started using gitHub and will publish my work when I have time, but for now this is just an intro to my interests... 
 ***
 👀 I'm looking for collaborators to join my stock picking project  :  
-    ==> Create ETL pipeline to automate the consumption/data wrangling/analysis 
-    ==> Implement the best ML strategy for predicting time-series / signal buy/sell based on fundamental metrics and current valuation
+    ==> Create ETL pipeline to automate the consumption/data wrangling/analysis  
+    ==> Implement the best ML strategy for predicting time-series and signal buy/sell based on fundamental stock analysis
     
     This project could be turned into an app, but in the meantime it's really for fun and personal use!  
     
