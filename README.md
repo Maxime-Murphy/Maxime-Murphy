@@ -6,7 +6,7 @@ E.g. I built a python library and a databrowser to easily access all of UNESCO-U
 I’m also interested in developing stock picking ML model based on great fundamental investors' strategy like Graham, Buffet, Lynch, etc.
 I am currently developping the code for consuming the FinHub api and wrangle the large amount of data to create a clean SQL database.
    
-In general I make project with cover both my interests and my professional goals to become a better data scientist and developper.
+In general I like to work on projects that cover both my interests and my professional goals to become a better data scientist and developper.
 
 ***
 NOTE: I just started using gitHub and will publish my work when I have time, but for now this is just an intro to my interests... 
